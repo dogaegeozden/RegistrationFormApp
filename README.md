@@ -1,6 +1,6 @@
 # Registration Form App
 
-![Registration Form App Preview](preview.png)
+![Registration Form App Preview](https://raw.githubusercontent.com/dogaegeozden/RegistrationFormApp/main/screenshots/screenshot1.png)
 
 Welcome to the Registration Form App! This application allows users to fill out a registration form with required information. It's built with HTML and styled with CSS.
 
@@ -21,10 +21,6 @@ Welcome to the Registration Form App! This application allows users to fill out 
 2. Open the `index.html` file in your web browser.
 3. Fill out the registration form with the required information.
 4. Click the "Submit" button to submit the form.
-
-## Screenshots
-
-![Registration Form App Screenshot](https://raw.githubusercontent.com/dogaegeozden/RegistrationFormApp/main/screenshots/screenshot1.png)
 
 ## Technologies Used
 
